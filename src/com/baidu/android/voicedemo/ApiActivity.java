@@ -190,7 +190,7 @@ public class ApiActivity extends Activity implements RecognitionListener {
 
     private String buildTestSlotData() {
         JSONObject slotData = new JSONObject();
-        JSONArray name = new JSONArray().put("李涌泉").put("郭下纶");
+        JSONArray name = new JSONArray().put("刘德华").put("姚明");
         JSONArray song = new JSONArray().put("七里香").put("发如雪");
         JSONArray artist = new JSONArray().put("周杰伦").put("李世龙");
         JSONArray app = new JSONArray().put("手机百度").put("百度地图");
