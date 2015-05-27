@@ -1,0 +1,2 @@
+# BaiduSpeechRecognizerDemo
+百度语音离在线语音识别Demo
